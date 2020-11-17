@@ -19,11 +19,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccac4fa8-9a16-49c8-965c-3eb9a7ca13be" name="Default Changelist" comment="">
+    <list default="true" id="ccac4fa8-9a16-49c8-965c-3eb9a7ca13be" name="Default Changelist" comment="finish">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/testSelection.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Auto_Select.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Test_Selection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Test_class_selection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Project/Test_method_selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/1-ALU/class-ALU.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/1-ALU/class-ALU.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/1-ALU/method-ALU.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/1-ALU/method-ALU.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/2-DataLog/class-DataLog.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/2-DataLog/class-DataLog.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/2-DataLog/method-DataLog.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/2-DataLog/method-DataLog.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/3-BinaryHeap/class-BinaryHeap.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/3-BinaryHeap/class-BinaryHeap.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/3-BinaryHeap/method-BinaryHeap.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/3-BinaryHeap/method-BinaryHeap.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/4-NextDay/class-NextDay.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/4-NextDay/class-NextDay.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/4-NextDay/method-NextDay.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/4-NextDay/method-NextDay.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/5-MoreTriangle/class-MoreTriangle.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/5-MoreTriangle/class-MoreTriangle.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/5-MoreTriangle/method-MoreTriangle.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/5-MoreTriangle/method-MoreTriangle.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +85,10 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
@@ -85,8 +109,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605615816904</updated>
-      <workItem from="1605615821212" duration="662000" />
+      <workItem from="1605615821212" duration="1551000" />
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <created>1605616793602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605616793602</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +134,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="287" key="IDE.errors.dialog" timestamp="1605617450083">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state x="727" y="287" key="IDE.errors.dialog/0.23.1792.1030@0.23.1792.1030" timestamp="1605617450083" />
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2" timestamp="1605616795694">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="287" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1605616795694" />
   </component>
 </project>
