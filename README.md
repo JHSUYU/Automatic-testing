@@ -10,6 +10,7 @@ Demo里是可运行的Jar包
 
 #3Report
 里面放了五个项目的class,method的dot和pdf图
-（是调用图而不是依赖图）
+class.dot格式： A的类签名->B的类签名，代表class A调用（依赖）class B
+method.dot格式： 方法A所在类签名 方法A签名->方法B所在类签名 方法B签名，代表方法A调用（依赖）方法B
 
 
