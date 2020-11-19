@@ -6,7 +6,7 @@
 为了方便Git，整个完整的Maven项目(包括其余配置文件）在压缩包Auto_Select.zip中
 
 #2Demo
-Demo里是可运行的Jar包 ，jdk版本是jdk1.8.0_271.jdk
+Demo里是验证过的可运行的Jar包 ，jdk版本是jdk1.8.0_271.jdk
 
 
 #3Report
